@@ -68,11 +68,11 @@ I built this project from scratch, loading raw data into a MySQL database, perfo
 
 ## 📬 Contact
 
-**Aryan Daima**  
-📍 Ghaziabad, Uttar Pradesh  
-📧 aryandaima04@gmail.com  
-📞 +91 9650985008  
-🔗 [LinkedIn](https://www.linkedin.com/in/aryan-daima-90962825b/)
+**Vaibhav Porwal**  
+📍 Greater Noida, Uttar Pradesh  
+📧 vankybhoi@gmail.com
+📞 +91 8532932765 
+🔗 (https://www.linkedin.com/in/vaibhav-porwal-2ba97b394?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
